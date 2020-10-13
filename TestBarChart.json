@@ -5,7 +5,7 @@
   "mark": "bar",
   "encoding": {
     "y": {"field": "Cancer group/site", "type": "nominal"},
-    "x": {"aggregate": "sum", "field": "Count", "type": "quantitative"}
+    "x": {"aggregate": "sum", "field": "Count", "type": "quantitative", "sort": "descending"}
   },
   "config" : {}
   } 
