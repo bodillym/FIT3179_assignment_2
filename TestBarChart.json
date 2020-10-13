@@ -5,7 +5,11 @@
   "mark": {"type": "bar", "tooltip": true},
   "encoding": {
     "y": {"field": "Cancer group/site", "type": "nominal", "sort": "-x"},
-    "x": {"aggregate": "sum", "field": "Count", "type": "quantitative"}
+    "x": {"aggregate": "sum", "field": "Count", "type": "quantitative"},
+    "color": {"field": "Cancer group/site", 
+              "type": "nominal", 
+              "scale": {"domain": ["Melanoma of the skin", "Prostate cancer", "Colorectal cancer", "Breast cancer", "Lung cancer"], 
+                        "range": ["#F1C40F", "#D3D3D3", "#D3D3D3", "#D3D3D3", "#D3D3D3"]}}
   },
   "config" : {}
   } 
