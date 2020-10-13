@@ -7,7 +7,7 @@
     "point": true
   },
   "encoding": {
-    "x": {"field": "Year", "type": "quantitative"},
+    "x": {"timeUnit": "year", "field": "Year"},
     "y": {"aggregate": "sum", "field": "Count", "type": "quantitative"}
   },
   "config" : {}
