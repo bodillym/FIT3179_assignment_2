@@ -5,8 +5,10 @@
   "mark": "line",
   "encoding": {
     "x": {"timeUnit": "year", "field": "Year"},
-    "y": {"aggregate": "sum", "field": "Count", "type": "quantitative"}
+    "y": {"aggregate": "sum", "field": "Count", "type": "quantitative"},
+  "colour": {"value": "#ff9900"}
   },
+
   "config" : {}
 }
  
