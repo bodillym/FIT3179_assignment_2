@@ -16,11 +16,15 @@
   
 <h2>This is the third visualisation</h2>
 <div id="vis3"></div>
+  
+<h2>This is the fourth visualisation</h2>
+<div id="vis4"></div>
 
 <script type="text/javascript">
   var specVis1 = "https://bodillym.github.io/FIT3179_assignment_2/TestBarChart.json";
   var specVis2= "https://bodillym.github.io/FIT3179_assignment_2/TestLineChart.json";
   var specVis3 = "https://bodillym.github.io/FIT3179_assignment_2/TestBoxPlot.json";
+  var specVis4 = "https://bodillym.github.io/FIT3179_assignment_2/TestDivergingChart.json";
 
   vegaEmbed('#vis1', specVis1).then(function(result) {
   }).catch(console.error);
@@ -29,6 +33,9 @@
   }).catch(console.error);
   
    vegaEmbed('#vis3', specVis3).then(function(result) {
+  }).catch(console.error);
+  
+   vegaEmbed('#vis4', specVis4).then(function(result) {
   }).catch(console.error);
 </script>
 </body>
