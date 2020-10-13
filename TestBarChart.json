@@ -7,6 +7,6 @@
   "mark": "bar",
   "encoding": {
     "x": {"field": "State or Territory", "type": "nominal", "axis": {"labelAngle": 0}},
-    "y": {"aggregate": "count",
+    "y": {"aggregate": "sum", "field": "Count"
   }
 }
