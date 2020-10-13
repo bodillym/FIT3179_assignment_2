@@ -2,8 +2,11 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "description": "Practice Line Graph",
   "data": {"url": "https://bodillym.github.io/FIT3179_assignment_2/Melanoma_by_states.csv"},
-  "mark": {"type": "area",
-  "line": {"color": "darkgreen"},
+  "mark": {
+    "type": "area",
+    "line": {
+      "color": "darkgreen"
+    },
     "color": {
       "x1": 1,
       "y1": 1,
@@ -27,8 +30,7 @@
     "y": {"aggregate": "sum", "field": "Count", "type": "quantitative"}
     }
   }
-  "config" : {}
 }
- 
+
 
 
