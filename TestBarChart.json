@@ -8,4 +8,4 @@
     "y": {"aggregate": "sum", "field": "Count", "type": "quantitative"}
   },
   "config" : {}
-  }
+  } 
