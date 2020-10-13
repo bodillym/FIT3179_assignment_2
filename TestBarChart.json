@@ -9,7 +9,8 @@
     "color": {"field": "Cancer group/site", 
               "type": "nominal", 
               "scale": {"domain": ["Melanoma of the skin", "Prostate cancer", "Colorectal cancer", "Breast cancer", "Lung cancer"], 
-                        "range": ["#F1C40F", "#D3D3D3", "#D3D3D3", "#D3D3D3", "#D3D3D3"]}}
+                        "range": ["#F1C40F", "#D3D3D3", "#D3D3D3", "#D3D3D3", "#D3D3D3"]},
+             "legend": false}
   },
   "config" : {}
   } 
