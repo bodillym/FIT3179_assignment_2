@@ -6,8 +6,7 @@
   "mark": "area",
   "encoding": {
     "x": {"timeUnit": "year", "field": "Year", "axis": {"format": "%Y"}},
-    "y": {"aggregate": "sum", "field": "Count", "title": "count"},
-    "color": {"field": "State or Territory", "scale": {"scheme": "category20b"}
+    "y": {"aggregate": "sum", "field": "Count", "title": "count"}
   },
   "config": {}
 }
