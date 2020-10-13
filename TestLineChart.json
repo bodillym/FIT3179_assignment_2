@@ -6,7 +6,7 @@
   "encoding": {
     "x": {"timeUnit": "year", "field": "Year", "axis": {"format": "%Y"}},
     "y": {"aggregate": "sum", "field": "Count", "title": "count"}
-  }
+  },
   "config": {}
 }
 
