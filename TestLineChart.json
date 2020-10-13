@@ -6,7 +6,7 @@
   "encoding": {
     "x": {"timeUnit": "year", "field": "Year"},
     "y": {"aggregate": "sum", "field": "Count", "type": "quantitative"},
-  "colour": {"value": "#ff9900"}
+  "color": {"value": "#ff9900"}
   },
 
   "config" : {}
