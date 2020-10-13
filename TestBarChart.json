@@ -4,8 +4,8 @@
   "data": {"url": "https://bodillym.github.io/FIT3179_assignment_2/Melanoma_total_cancer.csv"},
   "mark": "bar",
   "encoding": {
-    "x": {"aggregate": "sum", "field": "Count", "type": "quantitative"},
-    "y": {"field": "Cancer group/site", "type": "nominal"},
+    "x": {"field": "Cancer group/site", "type": "nominal"},
+    "y": {"aggregate": "sum", "field": "Count", "type": "quantitative"}
   },
   "config" : {}
   } 
