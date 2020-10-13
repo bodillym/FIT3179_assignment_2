@@ -1,0 +1,12 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "Practice Line Graph",
+  "data": {"url": "https://bodillym.github.io/FIT3179_assignment_2/Melanoma_by_states.csv"},
+  "transform": [{"filter": "datum.symbol==='GOOG'"}],
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "Year", "type": "quantitative"},
+    "y": {"aggregate": "sum", "field": "Count", "type": "quantitative"}
+  }
+  "config" : {}
+}
