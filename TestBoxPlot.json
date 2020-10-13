@@ -6,7 +6,7 @@
   "encoding": {
     "x": {"field": "State or Territory", "type": "nominal"},
     "color": {"field": "State or Territory", "type": "nominal", "legend": null},
-    "y": {"aggregate": "sum", "field": "Count", "type": "quantitative", "scale": {"zero": false}}
+    "y": {"field": "Count", "type": "quantitative", "scale": {"zero": false}}
   }
 }
 
