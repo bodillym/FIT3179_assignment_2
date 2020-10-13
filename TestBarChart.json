@@ -1,11 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "description": "Practice Bar Chart",
-  "data": {"url": "https://bodillym.github.io/FIT3179_assignment_2/Melanoma_by_states.csv"},
+  "data": {"url": "https://bodillym.github.io/FIT3179_assignment_2/Melanoma_total_cancer.csv"},
   "mark": "bar",
   "encoding": {
-    "x": {"field": "State or Territory", "type": "nominal"},
-    "y": {"aggregate": "sum", "field": "Count", "type": "quantitative"}
+    "x": {"aggregate": "sum", "field": "Count", "type": "quantitative"}
+    "y": {"field": "Cancer group/site", "type": "nominal"},
   },
   "config" : {}
   } 
