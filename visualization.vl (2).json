@@ -1,0 +1,25 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 500,
+  "height": 300,
+  "data": {
+    "url": "https://bodillym.github.io/FIT3179_assignment_2/states.json",
+    "format": {"type": "topojson", "feature": "states"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.STATE_NAME",
+      "from": {
+        "data": {
+          "url": "https://bodillym.github.io/FIT3179_assignment_2/states1.csv"
+        },
+        "key": "State or Territory",
+        "fields": ["Count"]
+      }
+    }
+  ],
+  "projection": {"type": "equirectangular"},
+  "mark": "geoshape",
+  "encoding": {"color": {"field": "Count", "type": "quantitative"}},
+  "config": {}
+}
