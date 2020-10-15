@@ -56,12 +56,16 @@
   
 <h2>This is the fourth visualisation</h2>
 <div id="vis4"></div>
+  
+<h2>This is a heat map</h2>
+<div id="vis5"></div>
 
 <script type="text/javascript">
   var specVis1 = "https://bodillym.github.io/FIT3179_assignment_2/TestBarChart.json";
   var specVis2= "https://bodillym.github.io/FIT3179_assignment_2/TestLineChart.json";
   var specVis3 = "https://bodillym.github.io/FIT3179_assignment_2/TestBoxPlot.json";
   var specVis4 = "https://bodillym.github.io/FIT3179_assignment_2/TestDivergingChart.json";
+  var specVis5 = "https://bodillym.github.io/FIT3179_assignment_2/TestHeatMap.json";
 
   vegaEmbed('#vis1', specVis1).then(function(result) {
   }).catch(console.error);
@@ -73,6 +77,9 @@
   }).catch(console.error);
   
    vegaEmbed('#vis4', specVis4).then(function(result) {
+  }).catch(console.error);
+
+  vegaEmbed('#vis5', specVis5).then(function(result) {
   }).catch(console.error);
 </script>
 </body>
