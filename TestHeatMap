@@ -1,0 +1,37 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+      "url": "https://bodillym.github.io/FIT3179_assignment_2/Melanoma_max_UV.csv"
+  },
+  "title": "Daily Max Temperatures (C) in Seattle, WA",
+  "config": {
+      "view": {
+          "strokeWidth": 0,
+          "step": 13
+      },
+      "axis": {
+          "domain": false
+      }
+  },
+  "mark": "rect",
+  "encoding": {
+      "y": {
+          "field": "City",
+          "type": "ordinal",
+          "title": "City"
+      },
+      "x": {
+          "field": "Month",
+          "type": "ordinal",
+          "title": "Month",
+          "sort": null
+      },
+      "color": {
+          "field": "UV Index",
+          "type": "quantitative",
+          "legend": {
+              "title": null
+          }
+      }
+  }
+}
