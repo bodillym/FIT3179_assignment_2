@@ -3,23 +3,33 @@
   "width": 500,
   "height": 300,
   "data": {
-    "url": "https://bodillym.github.io/FIT3179_assignment_2/states.json",
-    "format": {"type": "topojson", "feature": "states"}
+    "url": "https://bodillym.github.io/FIT3179_assignment_2/Melanoma_by_states.csv"
   },
   "transform": [
     {
-      "lookup": "properties.STATE_NAME",
+      "lookup": "State or Territory",
       "from": {
         "data": {
-          "url": "https://bodillym.github.io/FIT3179_assignment_2/Melanoma_by_states.csv"
+          "url": "https://bodillym.github.io/FIT3179_assignment_2/states.json",
+          "format": {"type": "topojson", "feature": "states"}
         },
-        "key": "State or Territory",
-        "fields": ["Count"]
-      }
-    }
+        "key": "properties.STATE_NAME"
+      },
+        "as": "geo"
+    }, {
+    "joinaggregate": [{
+      "op": "sum",
+      "field": "Count",
+      "as": "TotalCount"
+    }],"groupby": ["State or Territory"]}
   ],
   "projection": {"type": "equirectangular"},
   "mark": "geoshape",
-  "encoding": {"color": {"field": "Count", "type": "quantitative"}},
-  "config": {}
+  "encoding": {
+    "shape": {"field": "geo", "type": "geojson"},
+    "color": {"field": "TotalCount", "type": "quantitative"},
+    "tooltip": [
+      {"field": "TotalCount", "type": "quantitative"}
+    ]
+  }
 }
