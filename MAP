@@ -29,6 +29,7 @@
     "shape": {"field": "geo", "type": "geojson"},
     "color": {"field": "TotalCount", "type": "quantitative"},
     "tooltip": [
+      {"field": "State or Territory", "type": "nominal"},
       {"field": "TotalCount", "type": "quantitative"}
     ]
   }
