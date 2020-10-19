@@ -1,16 +1,48 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "description": "Practice Bar Chart",
-  "data": {"url": "https://bodillym.github.io/FIT3179_assignment_2/Melanoma_total_cancer.csv"},
+  "data": {
+    "url": "https://bodillym.github.io/FIT3179_assignment_2/Melanoma_total_cancer.csv"
+  },
+  "params" : [{"name": "Continent_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Males",
+          "Females"
+        ],
+        "labels":[
+          "Show All",
+          "Male",
+          "Female"
+        ],
+        "name": "Continent Selection: "
+      }
+    }
+
+  ],
+  "transform": [{"filter": "Continent_selection == null || datum.Sex == Continent_selection"}
+  ],
   "mark": {"type": "bar", "tooltip": true},
   "encoding": {
     "y": {"field": "Cancer group/site", "type": "nominal", "sort": "-x"},
     "x": {"aggregate": "sum", "field": "Count", "type": "quantitative"},
-    "color": {"field": "Cancer group/site", 
-              "type": "nominal", 
-              "scale": {"domain": ["Melanoma of the skin", "Prostate cancer", "Colorectal cancer", "Breast cancer", "Lung cancer"], 
-                        "range": ["#F1C40F", "#D3D3D3", "#D3D3D3", "#D3D3D3", "#D3D3D3"]},
-             "legend": false}
+    "color": {
+      "field": "Cancer group/site",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Melanoma of the skin",
+          "Prostate cancer",
+          "Colorectal cancer",
+          "Breast cancer",
+          "Lung cancer"
+        ],
+        "range": ["#F1C40F", "#D3D3D3", "#D3D3D3", "#D3D3D3", "#D3D3D3"]
+      },
+      "legend": false
+    }
   },
-  "config" : {}
-  } 
+  "config": {}
+}
