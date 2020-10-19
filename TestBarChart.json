@@ -4,7 +4,7 @@
   "data": {
     "url": "https://bodillym.github.io/FIT3179_assignment_2/Melanoma_total_cancer.csv"
   },
-  "params" : [{"name": "Continent_selection",
+  "params" : [{"name": "Gender",
       "bind": {
         "input": "select",
         "options": [
@@ -17,12 +17,12 @@
           "Male",
           "Female"
         ],
-        "name": "Continent Selection: "
+        "name": "Gender: "
       }
     }
 
   ],
-  "transform": [{"filter": "Continent_selection == null || datum.Sex == Continent_selection"}
+  "transform": [{"filter": "Gender == null || datum.Sex == Gender"}
   ],
   "mark": {"type": "bar", "tooltip": true},
   "encoding": {
