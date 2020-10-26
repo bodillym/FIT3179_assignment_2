@@ -1,0 +1,562 @@
+﻿Data type,Cancer group/site,Year,Sex,State or Territory,Count,"Age-standardised rate
+(per 100,000)",ICD10 codes,Pop,Percent
+Incidence,Melanoma of the skin,1982,Males,New South Wales,650,28.9,C43,2634534,0.024672295
+Incidence,Melanoma of the skin,1983,Males,New South Wales,694,31.1,C43,2663858,0.02605244
+Incidence,Melanoma of the skin,1984,Males,New South Wales,762,33.8,C43,2685607,0.028373474
+Incidence,Melanoma of the skin,1985,Males,New South Wales,828,35.9,C43,2716617,0.030479085
+Incidence,Melanoma of the skin,1986,Males,New South Wales,914,38.4,C43,2749467,0.033242807
+Incidence,Melanoma of the skin,1987,Males,New South Wales,1105,45,C43,2788076,0.039633066
+Incidence,Melanoma of the skin,1988,Males,New South Wales,1225,49.8,C43,2834126,0.043223202
+Incidence,Melanoma of the skin,1989,Males,New South Wales,1216,48.3,C43,2874052,0.042309603
+Incidence,Melanoma of the skin,1990,Males,New South Wales,1168,46.8,C43,2897622,0.040308915
+Incidence,Melanoma of the skin,1991,Males,New South Wales,1152,44.9,C43,2929101,0.039329473
+Incidence,Melanoma of the skin,1992,Males,New South Wales,1200,45.7,C43,2958748,0.040557695
+Incidence,Melanoma of the skin,1993,Males,New South Wales,1428,54,C43,2979175,0.047932733
+Incidence,Melanoma of the skin,1994,Males,New South Wales,1351,50.7,C43,3000720,0.045022528
+Incidence,Melanoma of the skin,1995,Males,New South Wales,1421,52.4,C43,3025280,0.046970859
+Incidence,Melanoma of the skin,1996,Males,New South Wales,1463,53.1,C43,3059051,0.04782529
+Incidence,Melanoma of the skin,1997,Males,New South Wales,1635,57.1,C43,3094095,0.052842592
+Incidence,Melanoma of the skin,1998,Males,New South Wales,1555,53.6,C43,3123941,0.049776868
+Incidence,Melanoma of the skin,1999,Males,New South Wales,1650,55.4,C43,3155835,0.052284102
+Incidence,Melanoma of the skin,2000,Males,New South Wales,1638,54,C43,3191864,0.051317976
+Incidence,Melanoma of the skin,2001,Males,New South Wales,1759,56.8,C43,3233305,0.054402539
+Incidence,Melanoma of the skin,2002,Males,New South Wales,1986,62.8,C43,3263556,0.060853866
+Incidence,Melanoma of the skin,2003,Males,New South Wales,1897,59.5,C43,3281607,0.057807044
+Incidence,Melanoma of the skin,2004,Males,New South Wales,2000,61.6,C43,3296562,0.060669267
+Incidence,Melanoma of the skin,2005,Males,New South Wales,2056,62.5,C43,3313555,0.062048163
+Incidence,Melanoma of the skin,2006,Males,New South Wales,2178,65.1,C43,3336005,0.065287672
+Incidence,Melanoma of the skin,2007,Males,New South Wales,2127,61.8,C43,3376796,0.062988703
+Incidence,Melanoma of the skin,2008,Males,New South Wales,2152,60.9,C43,3432731,0.06269061
+Incidence,Melanoma of the skin,2009,Males,New South Wales,2193,60.6,C43,3492115,0.062798619
+Incidence,Melanoma of the skin,2010,Males,New South Wales,2338,63.2,C43,3540212,0.066041243
+Incidence,Melanoma of the skin,2011,Males,New South Wales,2399,62.7,C43,3577883,0.067050823
+Incidence,Melanoma of the skin,2012,Males,New South Wales,2487,63.8,C43,3617039,0.068757898
+Incidence,Melanoma of the skin,2013,Males,New South Wales,2536,63.6,C43,3664409,0.069206249
+Incidence,Melanoma of the skin,2014,Males,New South Wales,2557,63.2,C43,3714264,0.06884271
+Incidence,Melanoma of the skin,2015,Males,New South Wales,2598,62.1,C43,3766915,0.068968904
+Incidence,Melanoma of the skin,2016,Males,New South Wales,2833,66.5,C43,3821409,0.074134959
+Incidence,Melanoma of the skin,1982,Females,New South Wales,651,26.2,C43,2651585,0.024551353
+Incidence,Melanoma of the skin,1983,Females,New South Wales,731,29.3,C43,2680169,0.027274399
+Incidence,Melanoma of the skin,1984,Females,New South Wales,738,29.3,C43,2703573,0.02729721
+Incidence,Melanoma of the skin,1985,Females,New South Wales,784,30.2,C43,2734932,0.028666161
+Incidence,Melanoma of the skin,1986,Females,New South Wales,786,29.9,C43,2766910,0.02840714
+Incidence,Melanoma of the skin,1987,Females,New South Wales,1003,37.3,C43,2808131,0.035717707
+Incidence,Melanoma of the skin,1988,Females,New South Wales,1044,37.9,C43,2855271,0.036563955
+Incidence,Melanoma of the skin,1989,Females,New South Wales,897,32,C43,2895668,0.030977308
+Incidence,Melanoma of the skin,1990,Females,New South Wales,944,33.1,C43,2920529,0.032322911
+Incidence,Melanoma of the skin,1991,Females,New South Wales,958,33.2,C43,2954147,0.032428989
+Incidence,Melanoma of the skin,1992,Females,New South Wales,978,33.5,C43,2987638,0.03273489
+Incidence,Melanoma of the skin,1993,Females,New South Wales,1055,35.6,C43,3011249,0.035035296
+Incidence,Melanoma of the skin,1994,Females,New South Wales,1017,33.8,C43,3036376,0.033493876
+Incidence,Melanoma of the skin,1995,Females,New South Wales,965,31.4,C43,3062630,0.031508867
+Incidence,Melanoma of the skin,1996,Females,New South Wales,1067,34,C43,3100755,0.034410974
+Incidence,Melanoma of the skin,1997,Females,New South Wales,1162,36.4,C43,3140208,0.037003918
+Incidence,Melanoma of the skin,1998,Females,New South Wales,1121,34.5,C43,3171319,0.035348068
+Incidence,Melanoma of the skin,1999,Females,New South Wales,1126,34,C43,3204717,0.035135708
+Incidence,Melanoma of the skin,2000,Females,New South Wales,1190,35.2,C43,3239962,0.036728826
+Incidence,Melanoma of the skin,2001,Females,New South Wales,1245,36.1,C43,3280539,0.037951081
+Incidence,Melanoma of the skin,2002,Females,New South Wales,1349,38.5,C43,3311740,0.040733874
+Incidence,Melanoma of the skin,2003,Females,New South Wales,1372,38.6,C43,3334105,0.041150474
+Incidence,Melanoma of the skin,2004,Females,New South Wales,1459,40.7,C43,3351718,0.043529915
+Incidence,Melanoma of the skin,2005,Females,New South Wales,1509,41.2,C43,3372320,0.044746643
+Incidence,Melanoma of the skin,2006,Females,New South Wales,1395,37.6,C43,3399523,0.041035169
+Incidence,Melanoma of the skin,2007,Females,New South Wales,1425,37.6,C43,3438563,0.04144173
+Incidence,Melanoma of the skin,2008,Females,New South Wales,1488,38.3,C43,3487176,0.042670631
+Incidence,Melanoma of the skin,2009,Females,New South Wales,1536,38.8,C43,3540308,0.043386056
+Incidence,Melanoma of the skin,2010,Females,New South Wales,1566,38.6,C43,3588144,0.043643733
+Incidence,Melanoma of the skin,2011,Females,New South Wales,1623,39.4,C43,3626854,0.044749527
+Incidence,Melanoma of the skin,2012,Females,New South Wales,1703,40.5,C43,3667943,0.046429293
+Incidence,Melanoma of the skin,2013,Females,New South Wales,1773,41.1,C43,3718548,0.047679901
+Incidence,Melanoma of the skin,2014,Females,New South Wales,1801,41.1,C43,3773570,0.047726689
+Incidence,Melanoma of the skin,2015,Females,New South Wales,1783,40,C43,3828816,0.046567921
+Incidence,Melanoma of the skin,2016,Females,New South Wales,1922,42.3,C43,3886003,0.04945956
+Incidence,Melanoma of the skin,1982,Males,Australian Capital Territory,0,0,C43,115374,0
+Incidence,Melanoma of the skin,1983,Males,Australian Capital Territory,0,0,C43,118452,0
+Incidence,Melanoma of the skin,1984,Males,Australian Capital Territory,0,0,C43,121621,0
+Incidence,Melanoma of the skin,1985,Males,Australian Capital Territory,0,0,C43,124243,0
+Incidence,Melanoma of the skin,1986,Males,Australian Capital Territory,30,32.7,C43,128724,0.023305677
+Incidence,Melanoma of the skin,1987,Males,Australian Capital Territory,36,37.4,C43,131810,0.02731204
+Incidence,Melanoma of the skin,1988,Males,Australian Capital Territory,40,42.2,C43,135308,0.029562184
+Incidence,Melanoma of the skin,1989,Males,Australian Capital Territory,41,41.7,C43,137758,0.029762337
+Incidence,Melanoma of the skin,1990,Males,Australian Capital Territory,41,44.4,C43,140251,0.029233303
+Incidence,Melanoma of the skin,1991,Males,Australian Capital Territory,41,44.1,C43,143626,0.028546363
+Incidence,Melanoma of the skin,1992,Males,Australian Capital Territory,40,43.8,C43,146582,0.02728848
+Incidence,Melanoma of the skin,1993,Males,Australian Capital Territory,38,38.7,C43,149254,0.025459954
+Incidence,Melanoma of the skin,1994,Males,Australian Capital Territory,39,39.3,C43,150005,0.025999133
+Incidence,Melanoma of the skin,1995,Males,Australian Capital Territory,43,41.9,C43,151787,0.028329172
+Incidence,Melanoma of the skin,1996,Males,Australian Capital Territory,44,42.5,C43,153130,0.028733756
+Incidence,Melanoma of the skin,1997,Males,Australian Capital Territory,51,46,C43,154180,0.03307822
+Incidence,Melanoma of the skin,1998,Males,Australian Capital Territory,56,48.5,C43,154307,0.036291289
+Incidence,Melanoma of the skin,1999,Males,Australian Capital Territory,61,50.8,C43,155398,0.039254044
+Incidence,Melanoma of the skin,2000,Males,Australian Capital Territory,61,48.6,C43,156659,0.038938076
+Incidence,Melanoma of the skin,2001,Males,Australian Capital Territory,60,46.8,C43,158271,0.037909661
+Incidence,Melanoma of the skin,2002,Males,Australian Capital Territory,58,44,C43,159971,0.036256572
+Incidence,Melanoma of the skin,2003,Males,Australian Capital Territory,59,44.8,C43,161392,0.036556954
+Incidence,Melanoma of the skin,2004,Males,Australian Capital Territory,60,45.6,C43,162299,0.036968804
+Incidence,Melanoma of the skin,2005,Males,Australian Capital Territory,69,51.6,C43,163444,0.042216294
+Incidence,Melanoma of the skin,2006,Males,Australian Capital Territory,73,53.8,C43,165351,0.044148508
+Incidence,Melanoma of the skin,2007,Males,Australian Capital Territory,73,53,C43,168533,0.043314959
+Incidence,Melanoma of the skin,2008,Males,Australian Capital Territory,76,54.4,C43,171722,0.044257579
+Incidence,Melanoma of the skin,2009,Males,Australian Capital Territory,77,53.8,C43,175491,0.043876894
+Incidence,Melanoma of the skin,2010,Males,Australian Capital Territory,74,50.7,C43,179028,0.041334316
+Incidence,Melanoma of the skin,2011,Males,Australian Capital Territory,76,50.5,C43,182399,0.041666895
+Incidence,Melanoma of the skin,2012,Males,Australian Capital Territory,79,51.2,C43,186302,0.042404268
+Incidence,Melanoma of the skin,2013,Males,Australian Capital Territory,81,50.5,C43,189791,0.042678525
+Incidence,Melanoma of the skin,2014,Males,Australian Capital Territory,82,49.9,C43,192656,0.04256291
+Incidence,Melanoma of the skin,2015,Males,Australian Capital Territory,84,49.7,C43,195574,0.042950494
+Incidence,Melanoma of the skin,2016,Males,Australian Capital Territory,92,52.8,C43,199141,0.046198422
+Incidence,Melanoma of the skin,1982,Females,Australian Capital Territory,0,0,C43,115616,0
+Incidence,Melanoma of the skin,1983,Females,Australian Capital Territory,0,0,C43,118539,0
+Incidence,Melanoma of the skin,1984,Females,Australian Capital Territory,0,0,C43,121855,0
+Incidence,Melanoma of the skin,1985,Females,Australian Capital Territory,0,0,C43,124596,0
+Incidence,Melanoma of the skin,1986,Females,Australian Capital Territory,27,25.9,C43,128561,0.021001703
+Incidence,Melanoma of the skin,1987,Females,Australian Capital Territory,33,30.6,C43,132243,0.024954062
+Incidence,Melanoma of the skin,1988,Females,Australian Capital Territory,35,33.2,C43,135649,0.025801886
+Incidence,Melanoma of the skin,1989,Females,Australian Capital Territory,38,34.6,C43,138109,0.027514499
+Incidence,Melanoma of the skin,1990,Females,Australian Capital Territory,38,34,C43,140408,0.027063985
+Incidence,Melanoma of the skin,1991,Females,Australian Capital Territory,38,32.4,C43,143674,0.026448766
+Incidence,Melanoma of the skin,1992,Females,Australian Capital Territory,36,30.5,C43,146902,0.024506133
+Incidence,Melanoma of the skin,1993,Females,Australian Capital Territory,36,30,C43,149950,0.024008003
+Incidence,Melanoma of the skin,1994,Females,Australian Capital Territory,35,28,C43,151408,0.023116348
+Incidence,Melanoma of the skin,1995,Females,Australian Capital Territory,38,30.6,C43,153601,0.024739422
+Incidence,Melanoma of the skin,1996,Females,Australian Capital Territory,39,30.9,C43,155382,0.025099432
+Incidence,Melanoma of the skin,1997,Females,Australian Capital Territory,42,32.3,C43,156730,0.026797678
+Incidence,Melanoma of the skin,1998,Females,Australian Capital Territory,42,31.5,C43,156719,0.026799558
+Incidence,Melanoma of the skin,1999,Females,Australian Capital Territory,46,33.8,C43,158068,0.029101399
+Incidence,Melanoma of the skin,2000,Females,Australian Capital Territory,43,30.9,C43,160072,0.026862912
+Incidence,Melanoma of the skin,2001,Females,Australian Capital Territory,49,33.7,C43,162255,0.030199378
+Incidence,Melanoma of the skin,2002,Females,Australian Capital Territory,50,33.8,C43,164216,0.030447703
+Incidence,Melanoma of the skin,2003,Females,Australian Capital Territory,50,33.3,C43,165691,0.030176654
+Incidence,Melanoma of the skin,2004,Females,Australian Capital Territory,53,34.4,C43,166261,0.03187759
+Incidence,Melanoma of the skin,2005,Females,Australian Capital Territory,61,38.8,C43,167472,0.036423999
+Incidence,Melanoma of the skin,2006,Females,Australian Capital Territory,60,37.6,C43,168948,0.035513886
+Incidence,Melanoma of the skin,2007,Females,Australian Capital Territory,59,35.9,C43,172011,0.034300132
+Incidence,Melanoma of the skin,2008,Females,Australian Capital Territory,62,37.3,C43,174755,0.035478241
+Incidence,Melanoma of the skin,2009,Females,Australian Capital Territory,57,33.5,C43,177860,0.032047678
+Incidence,Melanoma of the skin,2010,Females,Australian Capital Territory,50,28.5,C43,181333,0.02757358
+Incidence,Melanoma of the skin,2011,Females,Australian Capital Territory,48,26.7,C43,184338,0.026039124
+Incidence,Melanoma of the skin,2012,Females,Australian Capital Territory,53,28.9,C43,188551,0.028109106
+Incidence,Melanoma of the skin,2013,Females,Australian Capital Territory,54,28.7,C43,192291,0.028082438
+Incidence,Melanoma of the skin,2014,Females,Australian Capital Territory,62,32.7,C43,195534,0.031708041
+Incidence,Melanoma of the skin,2015,Females,Australian Capital Territory,69,35.6,C43,198917,0.034687835
+Incidence,Melanoma of the skin,2016,Females,Australian Capital Territory,75,37.7,C43,202532,0.037031185
+Incidence,Melanoma of the skin,1982,Females,Northern Territory,0,0,C43,60570,0
+Incidence,Melanoma of the skin,1983,Females,Northern Territory,0,0,C43,62909,0
+Incidence,Melanoma of the skin,1984,Females,Northern Territory,0,0,C43,65831,0
+Incidence,Melanoma of the skin,1985,Females,Northern Territory,0,0,C43,68696,0
+Incidence,Melanoma of the skin,1986,Females,Northern Territory,5,10.1,C43,71937,0.006950526
+Incidence,Melanoma of the skin,1987,Females,Northern Territory,5,9,C43,74371,0.006723051
+Incidence,Melanoma of the skin,1988,Females,Northern Territory,8,15,C43,75038,0.010661265
+Incidence,Melanoma of the skin,1989,Females,Northern Territory,9,15.5,C43,76287,0.011797554
+Incidence,Melanoma of the skin,1990,Females,Northern Territory,9,15.3,C43,77252,0.011650184
+Incidence,Melanoma of the skin,1991,Females,Northern Territory,10,18.4,C43,78859,0.012680861
+Incidence,Melanoma of the skin,1992,Females,Northern Territory,12,19.4,C43,80054,0.014989882
+Incidence,Melanoma of the skin,1993,Females,Northern Territory,12,19.3,C43,81474,0.014728625
+Incidence,Melanoma of the skin,1994,Females,Northern Territory,13,20.5,C43,82784,0.015703518
+Incidence,Melanoma of the skin,1995,Females,Northern Territory,14,22.9,C43,84810,0.016507487
+Incidence,Melanoma of the skin,1996,Females,Northern Territory,15,21.9,C43,87138,0.017214074
+Incidence,Melanoma of the skin,1997,Females,Northern Territory,17,23.6,C43,89291,0.019038873
+Incidence,Melanoma of the skin,1998,Females,Northern Territory,15,21,C43,91136,0.016458919
+Incidence,Melanoma of the skin,1999,Females,Northern Territory,16,26,C43,92671,0.01726538
+Incidence,Melanoma of the skin,2000,Females,Northern Territory,19,28,C43,94104,0.020190428
+Incidence,Melanoma of the skin,2001,Females,Northern Territory,21,30.3,C43,95652,0.021954585
+Incidence,Melanoma of the skin,2002,Females,Northern Territory,20,28.5,C43,96039,0.020824873
+Incidence,Melanoma of the skin,2003,Females,Northern Territory,22,29.1,C43,96114,0.022889485
+Incidence,Melanoma of the skin,2004,Females,Northern Territory,22,25.8,C43,96784,0.02273103
+Incidence,Melanoma of the skin,2005,Females,Northern Territory,20,24.9,C43,98443,0.020316325
+Incidence,Melanoma of the skin,2006,Females,Northern Territory,19,23.8,C43,100210,0.018960184
+Incidence,Melanoma of the skin,2007,Females,Northern Territory,20,24.5,C43,102095,0.019589598
+Incidence,Melanoma of the skin,2008,Females,Northern Territory,20,25.3,C43,104410,0.019155253
+Incidence,Melanoma of the skin,2009,Females,Northern Territory,20,27.1,C43,106889,0.018710999
+Incidence,Melanoma of the skin,2010,Females,Northern Territory,21,26.1,C43,108828,0.019296505
+Incidence,Melanoma of the skin,2011,Females,Northern Territory,22,26.7,C43,109422,0.020105646
+Incidence,Melanoma of the skin,2012,Females,Northern Territory,23,28.5,C43,111573,0.020614306
+Incidence,Melanoma of the skin,2013,Females,Northern Territory,24,29.1,C43,114328,0.020992233
+Incidence,Melanoma of the skin,2014,Females,Northern Territory,25,28.1,C43,115725,0.021602938
+Incidence,Melanoma of the skin,2015,Females,Northern Territory,27,31.2,C43,116319,0.023212029
+Incidence,Melanoma of the skin,2016,Females,Northern Territory,0,n.p.,C43,117561,0
+Incidence,Melanoma of the skin,1982,Males,Northern Territory,0,0,C43,69023,0
+Incidence,Melanoma of the skin,1983,Males,Northern Territory,0,0,C43,71620,0
+Incidence,Melanoma of the skin,1984,Males,Northern Territory,0,0,C43,74835,0
+Incidence,Melanoma of the skin,1985,Males,Northern Territory,0,0,C43,77966,0
+Incidence,Melanoma of the skin,1986,Males,Northern Territory,6,13.5,C43,81347,0.00737581
+Incidence,Melanoma of the skin,1987,Males,Northern Territory,8,15.9,C43,83404,0.009591866
+Incidence,Melanoma of the skin,1988,Males,Northern Territory,10,17.7,C43,83921,0.011915969
+Incidence,Melanoma of the skin,1989,Males,Northern Territory,11,18.8,C43,84763,0.01297736
+Incidence,Melanoma of the skin,1990,Males,Northern Territory,13,25.7,C43,85286,0.01524283
+Incidence,Melanoma of the skin,1991,Males,Northern Territory,15,29.1,C43,86497,0.017341642
+Incidence,Melanoma of the skin,1992,Males,Northern Territory,19,39.8,C43,88063,0.021575463
+Incidence,Melanoma of the skin,1993,Males,Northern Territory,19,37.5,C43,89845,0.021147532
+Incidence,Melanoma of the skin,1994,Males,Northern Territory,19,39.2,C43,91453,0.020775699
+Incidence,Melanoma of the skin,1995,Males,Northern Territory,18,33.1,C43,93882,0.019173004
+Incidence,Melanoma of the skin,1996,Males,Northern Territory,20,35.5,C43,96721,0.020678033
+Incidence,Melanoma of the skin,1997,Males,Northern Territory,19,28.8,C43,98932,0.019205111
+Incidence,Melanoma of the skin,1998,Males,Northern Territory,22,31.5,C43,100925,0.021798365
+Incidence,Melanoma of the skin,1999,Males,Northern Territory,24,34.4,C43,102580,0.023396374
+Incidence,Melanoma of the skin,2000,Males,Northern Territory,26,35.8,C43,104200,0.024952015
+Incidence,Melanoma of the skin,2001,Males,Northern Territory,26,35.8,C43,105137,0.024729638
+Incidence,Melanoma of the skin,2002,Males,Northern Territory,25,33.3,C43,105841,0.023620336
+Incidence,Melanoma of the skin,2003,Males,Northern Territory,27,36.2,C43,104954,0.025725556
+Incidence,Melanoma of the skin,2004,Males,Northern Territory,28,35.3,C43,105225,0.026609646
+Incidence,Melanoma of the skin,2005,Males,Northern Territory,29,38.2,C43,106454,0.027241813
+Incidence,Melanoma of the skin,2006,Males,Northern Territory,29,35.3,C43,108137,0.026817833
+Incidence,Melanoma of the skin,2007,Males,Northern Territory,30,35.8,C43,110277,0.027204222
+Incidence,Melanoma of the skin,2008,Males,Northern Territory,29,35.5,C43,113502,0.025550211
+Incidence,Melanoma of the skin,2009,Males,Northern Territory,30,36.3,C43,117033,0.025633796
+Incidence,Melanoma of the skin,2010,Males,Northern Territory,32,38.7,C43,119772,0.02671743
+Incidence,Melanoma of the skin,2011,Males,Northern Territory,33,40.6,C43,120802,0.027317429
+Incidence,Melanoma of the skin,2012,Males,Northern Territory,37,45.2,C43,122702,0.030154358
+Incidence,Melanoma of the skin,2013,Males,Northern Territory,39,45.8,C43,125779,0.031006766
+Incidence,Melanoma of the skin,2014,Males,Northern Territory,42,50.5,C43,127065,0.033053949
+Incidence,Melanoma of the skin,2015,Males,Northern Territory,48,54.9,C43,126740,0.03787281
+Incidence,Melanoma of the skin,2016,Males,Northern Territory,0,n.p.,C43,127066,0
+Incidence,Melanoma of the skin,1982,Males,Queensland,474,49.5,C43,1210128,0.03916941
+Incidence,Melanoma of the skin,1983,Males,Queensland,455,45.1,C43,1242336,0.036624552
+Incidence,Melanoma of the skin,1984,Males,Queensland,536,52.8,C43,1264361,0.042392956
+Incidence,Melanoma of the skin,1985,Males,Queensland,545,51.3,C43,1287316,0.042336147
+Incidence,Melanoma of the skin,1986,Males,Queensland,641,59.1,C43,1313071,0.048816858
+Incidence,Melanoma of the skin,1987,Males,Queensland,739,65.2,C43,1338612,0.055206438
+Incidence,Melanoma of the skin,1988,Males,Queensland,754,64.9,C43,1366402,0.055181418
+Incidence,Melanoma of the skin,1989,Males,Queensland,747,62.9,C43,1407628,0.053067998
+Incidence,Melanoma of the skin,1990,Males,Queensland,763,62.8,C43,1446087,0.052763077
+Incidence,Melanoma of the skin,1991,Males,Queensland,772,60.6,C43,1477343,0.052255976
+Incidence,Melanoma of the skin,1992,Males,Queensland,886,69,C43,1508395,0.05873793
+Incidence,Melanoma of the skin,1993,Males,Queensland,862,65.7,C43,1544028,0.055828003
+Incidence,Melanoma of the skin,1994,Males,Queensland,926,67.4,C43,1579180,0.058638027
+Incidence,Melanoma of the skin,1995,Males,Queensland,1041,73.2,C43,1612864,0.06454357
+Incidence,Melanoma of the skin,1996,Males,Queensland,1114,77.3,C43,1648537,0.067575068
+Incidence,Melanoma of the skin,1997,Males,Queensland,1241,83.2,C43,1673623,0.074150511
+Incidence,Melanoma of the skin,1998,Males,Queensland,1234,80.1,C43,1696416,0.072741592
+Incidence,Melanoma of the skin,1999,Males,Queensland,1151,73.3,C43,1718855,0.066963182
+Incidence,Melanoma of the skin,2000,Males,Queensland,1305,81,C43,1743975,0.074829054
+Incidence,Melanoma of the skin,2001,Males,Queensland,1359,82,C43,1771031,0.076734964
+Incidence,Melanoma of the skin,2002,Males,Queensland,1469,85.8,C43,1809156,0.081198084
+Incidence,Melanoma of the skin,2003,Males,Queensland,1428,80.3,C43,1855317,0.076967979
+Incidence,Melanoma of the skin,2004,Males,Queensland,1326,72.9,C43,1899888,0.069793588
+Incidence,Melanoma of the skin,2005,Males,Queensland,1586,84.8,C43,1942914,0.081629964
+Incidence,Melanoma of the skin,2006,Males,Queensland,1493,77.7,C43,1989764,0.075034024
+Incidence,Melanoma of the skin,2007,Males,Queensland,1594,79.5,C43,2038366,0.078199891
+Incidence,Melanoma of the skin,2008,Males,Queensland,1771,86.3,C43,2092307,0.08464341
+Incidence,Melanoma of the skin,2009,Males,Queensland,1784,84.7,C43,2151248,0.082928607
+Incidence,Melanoma of the skin,2010,Males,Queensland,1849,85.4,C43,2191170,0.084384142
+Incidence,Melanoma of the skin,2011,Males,Queensland,1928,85.8,C43,2224704,0.086663215
+Incidence,Melanoma of the skin,2012,Males,Queensland,2019,88,C43,2267184,0.089053204
+Incidence,Melanoma of the skin,2013,Males,Queensland,2167,91.1,C43,2310867,0.093774328
+Incidence,Melanoma of the skin,2014,Males,Queensland,2198,90.3,C43,2343145,0.093805548
+Incidence,Melanoma of the skin,2015,Males,Queensland,2184,87.8,C43,2368799,0.09219862
+Incidence,Melanoma of the skin,2016,Males,Queensland,2316,90.8,C43,2394996,0.096701623
+Incidence,Melanoma of the skin,1982,Females,Queensland,428,40.9,C43,1196227,0.035779162
+Incidence,Melanoma of the skin,1983,Females,Queensland,458,41.2,C43,1227373,0.03731547
+Incidence,Melanoma of the skin,1984,Females,Queensland,504,45.4,C43,1249082,0.040349633
+Incidence,Melanoma of the skin,1985,Females,Queensland,537,46.7,C43,1272136,0.042212468
+Incidence,Melanoma of the skin,1986,Females,Queensland,601,51,C43,1297134,0.046332915
+Incidence,Melanoma of the skin,1987,Females,Queensland,627,51.2,C43,1324042,0.047354993
+Incidence,Melanoma of the skin,1988,Females,Queensland,613,48.3,C43,1357590,0.045153544
+Incidence,Melanoma of the skin,1989,Females,Queensland,637,49.5,C43,1399217,0.045525462
+Incidence,Melanoma of the skin,1990,Females,Queensland,626,47,C43,1438083,0.043530172
+Incidence,Melanoma of the skin,1991,Females,Queensland,648,46.8,C43,1470169,0.044076565
+Incidence,Melanoma of the skin,1992,Females,Queensland,687,48.9,C43,1501927,0.045741238
+Incidence,Melanoma of the skin,1993,Females,Queensland,666,45.4,C43,1537303,0.043322624
+Incidence,Melanoma of the skin,1994,Females,Queensland,703,46.7,C43,1572185,0.04471484
+Incidence,Melanoma of the skin,1995,Females,Queensland,784,50.6,C43,1605450,0.04883366
+Incidence,Melanoma of the skin,1996,Females,Queensland,861,54.5,C43,1640970,0.052468967
+Incidence,Melanoma of the skin,1997,Females,Queensland,890,55.1,C43,1670154,0.053288499
+Incidence,Melanoma of the skin,1998,Females,Queensland,907,54.8,C43,1697067,0.05344515
+Incidence,Melanoma of the skin,1999,Females,Queensland,898,52.8,C43,1723341,0.052108085
+Incidence,Melanoma of the skin,2000,Females,Queensland,963,55.1,C43,1753172,0.054929009
+Incidence,Melanoma of the skin,2001,Females,Queensland,995,55.6,C43,1785435,0.055728716
+Incidence,Melanoma of the skin,2002,Females,Queensland,1095,59.3,C43,1822295,0.060089064
+Incidence,Melanoma of the skin,2003,Females,Queensland,1019,53.6,C43,1867922,0.054552599
+Incidence,Melanoma of the skin,2004,Females,Queensland,1051,53.4,C43,1911033,0.054996434
+Incidence,Melanoma of the skin,2005,Females,Queensland,1132,56.1,C43,1954037,0.057931349
+Incidence,Melanoma of the skin,2006,Females,Queensland,1025,49.2,C43,1997889,0.051304152
+Incidence,Melanoma of the skin,2007,Females,Queensland,1127,52.8,C43,2046165,0.055078647
+Incidence,Melanoma of the skin,2008,Females,Queensland,1193,54.5,C43,2099172,0.056831932
+Incidence,Melanoma of the skin,2009,Females,Queensland,1263,56.4,C43,2154357,0.058625381
+Incidence,Melanoma of the skin,2010,Females,Queensland,1273,54.7,C43,2196631,0.057952383
+Incidence,Melanoma of the skin,2011,Females,Queensland,1381,58.2,C43,2233267,0.061837658
+Incidence,Melanoma of the skin,2012,Females,Queensland,1431,58.4,C43,2278429,0.062806434
+Incidence,Melanoma of the skin,2013,Females,Queensland,1528,61.7,C43,2323563,0.065761075
+Incidence,Melanoma of the skin,2014,Females,Queensland,1506,59.2,C43,2362042,0.063758392
+Incidence,Melanoma of the skin,2015,Females,Queensland,1557,59.3,C43,2395640,0.064993071
+Incidence,Melanoma of the skin,2016,Females,Queensland,1624,60.2,C43,2431542,0.066788894
+Incidence,Melanoma of the skin,1982,Females,South Australia,127,21.1,C43,669830,0.018960035
+Incidence,Melanoma of the skin,1983,Females,South Australia,148,23.3,C43,676120,0.021889605
+Incidence,Melanoma of the skin,1984,Females,South Australia,160,24.2,C43,683018,0.023425444
+Incidence,Melanoma of the skin,1985,Females,South Australia,198,29.9,C43,688960,0.028738969
+Incidence,Melanoma of the skin,1986,Females,South Australia,188,28.4,C43,693923,0.027092343
+Incidence,Melanoma of the skin,1987,Females,South Australia,201,29.3,C43,699159,0.028748825
+Incidence,Melanoma of the skin,1988,Females,South Australia,226,32.8,C43,705852,0.032018043
+Incidence,Melanoma of the skin,1989,Females,South Australia,199,28.4,C43,713464,0.027892087
+Incidence,Melanoma of the skin,1990,Females,South Australia,247,34,C43,720071,0.034302173
+Incidence,Melanoma of the skin,1991,Females,South Australia,225,30.7,C43,727213,0.030940041
+Incidence,Melanoma of the skin,1992,Females,South Australia,286,38.4,C43,732964,0.039019652
+Incidence,Melanoma of the skin,1993,Females,South Australia,270,35.6,C43,735299,0.036719756
+Incidence,Melanoma of the skin,1994,Females,South Australia,303,39.5,C43,738180,0.041046899
+Incidence,Melanoma of the skin,1995,Females,South Australia,296,38.4,C43,739933,0.040003622
+Incidence,Melanoma of the skin,1996,Females,South Australia,270,34.7,C43,741781,0.036398883
+Incidence,Melanoma of the skin,1997,Females,South Australia,319,40.2,C43,745455,0.042792657
+Incidence,Melanoma of the skin,1998,Females,South Australia,276,34.3,C43,749424,0.036828284
+Incidence,Melanoma of the skin,1999,Females,South Australia,289,35.8,C43,753656,0.038346407
+Incidence,Melanoma of the skin,2000,Females,South Australia,277,33.3,C43,757260,0.036579246
+Incidence,Melanoma of the skin,2001,Females,South Australia,254,30.5,C43,759756,0.033431786
+Incidence,Melanoma of the skin,2002,Females,South Australia,333,39.1,C43,763696,0.043603738
+Incidence,Melanoma of the skin,2003,Females,South Australia,287,33.3,C43,768332,0.037353644
+Incidence,Melanoma of the skin,2004,Females,South Australia,292,33.1,C43,772690,0.037790058
+Incidence,Melanoma of the skin,2005,Females,South Australia,328,37.2,C43,777712,0.042174995
+Incidence,Melanoma of the skin,2006,Females,South Australia,267,30.1,C43,784863,0.034018676
+Incidence,Melanoma of the skin,2007,Females,South Australia,280,30.7,C43,793351,0.035293332
+Incidence,Melanoma of the skin,2008,Females,South Australia,325,34.2,C43,801968,0.040525308
+Incidence,Melanoma of the skin,2009,Females,South Australia,291,29.9,C43,811066,0.035878708
+Incidence,Melanoma of the skin,2010,Females,South Australia,314,31.7,C43,820467,0.038270887
+Incidence,Melanoma of the skin,2011,Females,South Australia,298,29.5,C43,826543,0.036053781
+Incidence,Melanoma of the skin,2012,Females,South Australia,311,30.8,C43,834197,0.037281362
+Incidence,Melanoma of the skin,2013,Females,South Australia,297,29.1,C43,841784,0.03528221
+Incidence,Melanoma of the skin,2014,Females,South Australia,321,30.9,C43,849869,0.037770527
+Incidence,Melanoma of the skin,2015,Females,South Australia,298,27.7,C43,857844,0.034738251
+Incidence,Melanoma of the skin,2016,Females,South Australia,344,31.7,C43,864510,0.039791327
+Incidence,Melanoma of the skin,1982,Males,South Australia,121,21.4,C43,658840,0.018365612
+Incidence,Melanoma of the skin,1983,Males,South Australia,120,20.8,C43,666073,0.018016043
+Incidence,Melanoma of the skin,1984,Males,South Australia,124,21.4,C43,673493,0.018411476
+Incidence,Melanoma of the skin,1985,Males,South Australia,166,27.3,C43,679761,0.024420348
+Incidence,Melanoma of the skin,1986,Males,South Australia,168,27.4,C43,686394,0.024475738
+Incidence,Melanoma of the skin,1987,Males,South Australia,185,30.4,C43,691277,0.026762065
+Incidence,Melanoma of the skin,1988,Males,South Australia,231,37.9,C43,696477,0.033166924
+Incidence,Melanoma of the skin,1989,Males,South Australia,236,38.7,C43,703474,0.033547793
+Incidence,Melanoma of the skin,1990,Males,South Australia,221,33.6,C43,709470,0.031150013
+Incidence,Melanoma of the skin,1991,Males,South Australia,235,38.6,C43,716158,0.032813988
+Incidence,Melanoma of the skin,1992,Males,South Australia,297,45.6,C43,721196,0.041181593
+Incidence,Melanoma of the skin,1993,Males,South Australia,266,39.8,C43,722596,0.036811718
+Incidence,Melanoma of the skin,1994,Males,South Australia,310,45.2,C43,724377,0.042795395
+Incidence,Melanoma of the skin,1995,Males,South Australia,288,42.2,C43,724830,0.039733455
+Incidence,Melanoma of the skin,1996,Males,South Australia,312,45.6,C43,726162,0.042965619
+Incidence,Melanoma of the skin,1997,Males,South Australia,343,48,C43,728987,0.047051594
+Incidence,Melanoma of the skin,1998,Males,South Australia,301,42.2,C43,732713,0.041080205
+Incidence,Melanoma of the skin,1999,Males,South Australia,316,43.6,C43,736073,0.042930525
+Incidence,Melanoma of the skin,2000,Males,South Australia,338,45.7,C43,739568,0.045702356
+Incidence,Melanoma of the skin,2001,Males,South Australia,369,48.8,C43,742543,0.049694092
+Incidence,Melanoma of the skin,2002,Males,South Australia,339,44.1,C43,746317,0.045423057
+Incidence,Melanoma of the skin,2003,Males,South Australia,377,48.4,C43,750238,0.05025072
+Incidence,Melanoma of the skin,2004,Males,South Australia,383,48,C43,754304,0.050775284
+Incidence,Melanoma of the skin,2005,Males,South Australia,400,49.5,C43,759086,0.052694952
+Incidence,Melanoma of the skin,2006,Males,South Australia,360,43.9,C43,765272,0.047042097
+Incidence,Melanoma of the skin,2007,Males,South Australia,342,40.5,C43,773855,0.044194326
+Incidence,Melanoma of the skin,2008,Males,South Australia,413,48.1,C43,782440,0.0527836
+Incidence,Melanoma of the skin,2009,Males,South Australia,382,44.3,C43,793076,0.048166884
+Incidence,Melanoma of the skin,2010,Males,South Australia,387,43.5,C43,803566,0.048160325
+Incidence,Melanoma of the skin,2011,Males,South Australia,409,44.3,C43,810216,0.050480366
+Incidence,Melanoma of the skin,2012,Males,South Australia,404,42.9,C43,818519,0.049357437
+Incidence,Melanoma of the skin,2013,Males,South Australia,452,47.2,C43,826272,0.054703536
+Incidence,Melanoma of the skin,2014,Males,South Australia,501,51.5,C43,833675,0.060095361
+Incidence,Melanoma of the skin,2015,Males,South Australia,476,47.8,C43,840589,0.05662696
+Incidence,Melanoma of the skin,2016,Males,South Australia,472,46.4,C43,845824,0.055803571
+Incidence,Melanoma of the skin,1982,Males,Tasmania,30,17.6,C43,213477,0.014053036
+Incidence,Melanoma of the skin,1983,Males,Tasmania,31,17.8,C43,214543,0.014449318
+Incidence,Melanoma of the skin,1984,Males,Tasmania,31,18.1,C43,216669,0.014307538
+Incidence,Melanoma of the skin,1985,Males,Tasmania,31,16,C43,219051,0.014151955
+Incidence,Melanoma of the skin,1986,Males,Tasmania,33,17.6,C43,221259,0.014914648
+Incidence,Melanoma of the skin,1987,Males,Tasmania,43,21.1,C43,222654,0.019312476
+Incidence,Melanoma of the skin,1988,Males,Tasmania,62,30.7,C43,223496,0.027740989
+Incidence,Melanoma of the skin,1989,Males,Tasmania,54,28.6,C43,225086,0.02399083
+Incidence,Melanoma of the skin,1990,Males,Tasmania,66,32.1,C43,228214,0.028920224
+Incidence,Melanoma of the skin,1991,Males,Tasmania,75,37.7,C43,231083,0.032455871
+Incidence,Melanoma of the skin,1992,Males,Tasmania,69,31,C43,232555,0.029670401
+Incidence,Melanoma of the skin,1993,Males,Tasmania,68,33.7,C43,233611,0.029108218
+Incidence,Melanoma of the skin,1994,Males,Tasmania,80,37.4,C43,234034,0.034183067
+Incidence,Melanoma of the skin,1995,Males,Tasmania,92,42.4,C43,234462,0.039238768
+Incidence,Melanoma of the skin,1996,Males,Tasmania,94,43.2,C43,234776,0.040038164
+Incidence,Melanoma of the skin,1997,Males,Tasmania,91,41.7,C43,234731,0.038767781
+Incidence,Melanoma of the skin,1998,Males,Tasmania,86,39.4,C43,233960,0.03675842
+Incidence,Melanoma of the skin,1999,Males,Tasmania,88,38.2,C43,233448,0.037695761
+Incidence,Melanoma of the skin,2000,Males,Tasmania,109,48.3,C43,233322,0.046716555
+Incidence,Melanoma of the skin,2001,Males,Tasmania,103,44.3,C43,233395,0.044131194
+Incidence,Melanoma of the skin,2002,Males,Tasmania,115,48.3,C43,233731,0.04920186
+Incidence,Melanoma of the skin,2003,Males,Tasmania,119,49.6,C43,235552,0.05051963
+Incidence,Melanoma of the skin,2004,Males,Tasmania,117,47.1,C43,237982,0.049163382
+Incidence,Melanoma of the skin,2005,Males,Tasmania,147,58.7,C43,239502,0.061377358
+Incidence,Melanoma of the skin,2006,Males,Tasmania,127,49.8,C43,241193,0.052654928
+Incidence,Melanoma of the skin,2007,Males,Tasmania,127,48,C43,243232,0.052213525
+Incidence,Melanoma of the skin,2008,Males,Tasmania,164,60.1,C43,246319,0.066580329
+Incidence,Melanoma of the skin,2009,Males,Tasmania,159,57.6,C43,249633,0.063693502
+Incidence,Melanoma of the skin,2010,Males,Tasmania,158,54.8,C43,252462,0.062583676
+Incidence,Melanoma of the skin,2011,Males,Tasmania,132,45.1,C43,254499,0.051866609
+Incidence,Melanoma of the skin,2012,Males,Tasmania,146,48.8,C43,254866,0.057285005
+Incidence,Melanoma of the skin,2013,Males,Tasmania,137,45.4,C43,254843,0.053758589
+Incidence,Melanoma of the skin,2014,Males,Tasmania,161,50.6,C43,255134,0.063104094
+Incidence,Melanoma of the skin,2015,Males,Tasmania,167,52.3,C43,255310,0.065410677
+Incidence,Melanoma of the skin,2016,Males,Tasmania,182,58,C43,255937,0.07111125
+Incidence,Melanoma of the skin,1982,Females,Tasmania,38,20.1,C43,215968,0.017595199
+Incidence,Melanoma of the skin,1983,Females,Tasmania,45,23.7,C43,217122,0.020725675
+Incidence,Melanoma of the skin,1984,Females,Tasmania,35,18.2,C43,219509,0.015944677
+Incidence,Melanoma of the skin,1985,Females,Tasmania,49,24.5,C43,222273,0.022044963
+Incidence,Melanoma of the skin,1986,Females,Tasmania,54,26.7,C43,224464,0.02405731
+Incidence,Melanoma of the skin,1987,Females,Tasmania,68,33,C43,225943,0.030096086
+Incidence,Melanoma of the skin,1988,Females,Tasmania,68,32.4,C43,227076,0.029945921
+Incidence,Melanoma of the skin,1989,Females,Tasmania,61,26.8,C43,228846,0.02665548
+Incidence,Melanoma of the skin,1990,Females,Tasmania,85,38,C43,231856,0.036660686
+Incidence,Melanoma of the skin,1991,Females,Tasmania,68,31.4,C43,234787,0.028962421
+Incidence,Melanoma of the skin,1992,Females,Tasmania,58,25.2,C43,236878,0.024485178
+Incidence,Melanoma of the skin,1993,Females,Tasmania,71,30.5,C43,238253,0.029800254
+Incidence,Melanoma of the skin,1994,Females,Tasmania,72,30.8,C43,239109,0.03011179
+Incidence,Melanoma of the skin,1995,Females,Tasmania,91,38.6,C43,239949,0.037924726
+Incidence,Melanoma of the skin,1996,Females,Tasmania,95,40,C43,240506,0.039500054
+Incidence,Melanoma of the skin,1997,Females,Tasmania,97,39.8,C43,240713,0.040296951
+Incidence,Melanoma of the skin,1998,Females,Tasmania,85,34.9,C43,240022,0.03541342
+Incidence,Melanoma of the skin,1999,Females,Tasmania,102,41.2,C43,239741,0.042545914
+Incidence,Melanoma of the skin,2000,Females,Tasmania,118,48,C43,239981,0.049170559
+Incidence,Melanoma of the skin,2001,Females,Tasmania,106,42.1,C43,240267,0.044117586
+Incidence,Melanoma of the skin,2002,Females,Tasmania,109,42.5,C43,240487,0.045324695
+Incidence,Melanoma of the skin,2003,Females,Tasmania,98,37.9,C43,242024,0.040491852
+Incidence,Melanoma of the skin,2004,Females,Tasmania,100,37.4,C43,244796,0.040850341
+Incidence,Melanoma of the skin,2005,Females,Tasmania,135,50.4,C43,246253,0.054821667
+Incidence,Melanoma of the skin,2006,Females,Tasmania,122,44.1,C43,247947,0.049204064
+Incidence,Melanoma of the skin,2007,Females,Tasmania,109,38,C43,249393,0.043706118
+Incidence,Melanoma of the skin,2008,Females,Tasmania,113,40.9,C43,251233,0.044978168
+Incidence,Melanoma of the skin,2009,Females,Tasmania,115,39.3,C43,253798,0.045311626
+Incidence,Melanoma of the skin,2010,Females,Tasmania,134,45,C43,255720,0.052401064
+Incidence,Melanoma of the skin,2011,Females,Tasmania,129,43.2,C43,256749,0.050243623
+Incidence,Melanoma of the skin,2012,Females,Tasmania,108,33.7,C43,257127,0.04200259
+Incidence,Melanoma of the skin,2013,Females,Tasmania,137,43.6,C43,257397,0.053225174
+Incidence,Melanoma of the skin,2014,Females,Tasmania,171,51.8,C43,258547,0.066138845
+Incidence,Melanoma of the skin,2015,Females,Tasmania,136,42.6,C43,259502,0.052408074
+Incidence,Melanoma of the skin,2016,Females,Tasmania,150,46.1,C43,260924,0.057488004
+Incidence,Melanoma of the skin,1982,Females,Victoria,365,19.9,C43,2005209,0.018202591
+Incidence,Melanoma of the skin,1983,Females,Victoria,402,21.8,C43,2027264,0.019829682
+Incidence,Melanoma of the skin,1984,Females,Victoria,415,21.9,C43,2047992,0.020263751
+Incidence,Melanoma of the skin,1985,Females,Victoria,472,24.6,C43,2069858,0.022803497
+Incidence,Melanoma of the skin,1986,Females,Victoria,452,23,C43,2090321,0.021623473
+Incidence,Melanoma of the skin,1987,Females,Victoria,516,25.9,C43,2113862,0.024410297
+Incidence,Melanoma of the skin,1988,Females,Victoria,562,27.4,C43,2139481,0.026268053
+Incidence,Melanoma of the skin,1989,Females,Victoria,560,27,C43,2170573,0.025799639
+Incidence,Melanoma of the skin,1990,Females,Victoria,522,24.9,C43,2198844,0.023739747
+Incidence,Melanoma of the skin,1991,Females,Victoria,571,26.5,C43,2224403,0.025669809
+Incidence,Melanoma of the skin,1992,Females,Victoria,666,30.2,C43,2242101,0.029704282
+Incidence,Melanoma of the skin,1993,Females,Victoria,604,27.3,C43,2253286,0.026805297
+Incidence,Melanoma of the skin,1994,Females,Victoria,632,28.2,C43,2258763,0.027979916
+Incidence,Melanoma of the skin,1995,Females,Victoria,765,33.5,C43,2270435,0.033693984
+Incidence,Melanoma of the skin,1996,Females,Victoria,819,35.6,C43,2290756,0.035752389
+Incidence,Melanoma of the skin,1997,Females,Victoria,914,38.8,C43,2312255,0.039528512
+Incidence,Melanoma of the skin,1998,Females,Victoria,750,31.4,C43,2331839,0.032163456
+Incidence,Melanoma of the skin,1999,Females,Victoria,786,32.1,C43,2355725,0.033365524
+Incidence,Melanoma of the skin,2000,Females,Victoria,839,33.5,C43,2382474,0.035215494
+Incidence,Melanoma of the skin,2001,Females,Victoria,811,32.1,C43,2412214,0.033620566
+Incidence,Melanoma of the skin,2002,Females,Victoria,835,32.3,C43,2439142,0.034233349
+Incidence,Melanoma of the skin,2003,Females,Victoria,774,29.4,C43,2465146,0.031397735
+Incidence,Melanoma of the skin,2004,Females,Victoria,875,32.9,C43,2490865,0.035128359
+Incidence,Melanoma of the skin,2005,Females,Victoria,1084,39.8,C43,2519517,0.043024119
+Incidence,Melanoma of the skin,2006,Females,Victoria,972,34.6,C43,2552256,0.038083954
+Incidence,Melanoma of the skin,2007,Females,Victoria,989,34.7,C43,2593189,0.038138369
+Incidence,Melanoma of the skin,2008,Females,Victoria,982,34,C43,2640920,0.037184012
+Incidence,Melanoma of the skin,2009,Females,Victoria,1048,34.9,C43,2696890,0.038859575
+Incidence,Melanoma of the skin,2010,Females,Victoria,971,31.8,C43,2746841,0.035349698
+Incidence,Melanoma of the skin,2011,Females,Victoria,900,28.5,C43,2787532,0.032286625
+Incidence,Melanoma of the skin,2012,Females,Victoria,985,30.6,C43,2842062,0.034657935
+Incidence,Melanoma of the skin,2013,Females,Victoria,999,30.1,C43,2902104,0.034423301
+Incidence,Melanoma of the skin,2014,Females,Victoria,1066,31.6,C43,2966737,0.035931732
+Incidence,Melanoma of the skin,2015,Females,Victoria,1163,33.8,C43,3031015,0.038369985
+Incidence,Melanoma of the skin,2016,Females,Victoria,1253,35.4,C43,3104471,0.040361144
+Incidence,Melanoma of the skin,1982,Males,Victoria,280,16.9,C43,1975617,0.014172788
+Incidence,Melanoma of the skin,1983,Males,Victoria,320,18.9,C43,1997990,0.016016096
+Incidence,Melanoma of the skin,1984,Males,Victoria,331,19.1,C43,2018217,0.016400615
+Incidence,Melanoma of the skin,1985,Males,Victoria,397,23.2,C43,2039883,0.019461901
+Incidence,Melanoma of the skin,1986,Males,Victoria,377,21.2,C43,2060732,0.01829447
+Incidence,Melanoma of the skin,1987,Males,Victoria,481,26.1,C43,2083552,0.023085577
+Incidence,Melanoma of the skin,1988,Males,Victoria,563,31.4,C43,2110504,0.026676093
+Incidence,Melanoma of the skin,1989,Males,Victoria,547,29.8,C43,2139405,0.025567856
+Incidence,Melanoma of the skin,1990,Males,Victoria,579,31.4,C43,2165704,0.026734955
+Incidence,Melanoma of the skin,1991,Males,Victoria,558,28.8,C43,2189007,0.02549101
+Incidence,Melanoma of the skin,1992,Males,Victoria,710,37.4,C43,2203040,0.032228194
+Incidence,Melanoma of the skin,1993,Males,Victoria,654,34.2,C43,2209979,0.029593041
+Incidence,Melanoma of the skin,1994,Males,Victoria,682,34.8,C43,2212247,0.030828384
+Incidence,Melanoma of the skin,1995,Males,Victoria,771,38.7,C43,2220854,0.034716375
+Incidence,Melanoma of the skin,1996,Males,Victoria,867,42.8,C43,2236817,0.038760435
+Incidence,Melanoma of the skin,1997,Males,Victoria,898,42.8,C43,2253101,0.03985618
+Incidence,Melanoma of the skin,1998,Males,Victoria,792,37.7,C43,2269033,0.034904737
+Incidence,Melanoma of the skin,1999,Males,Victoria,882,41.5,C43,2289427,0.038524923
+Incidence,Melanoma of the skin,2000,Males,Victoria,892,40.6,C43,2313086,0.038563201
+Incidence,Melanoma of the skin,2001,Males,Victoria,927,41.5,C43,2341511,0.03958982
+Incidence,Melanoma of the skin,2002,Males,Victoria,994,43.4,C43,2369798,0.041944503
+Incidence,Melanoma of the skin,2003,Males,Victoria,984,42.1,C43,2399068,0.041015928
+Incidence,Melanoma of the skin,2004,Males,Victoria,1094,46,C43,2427205,0.045072419
+Incidence,Melanoma of the skin,2005,Males,Victoria,1224,50,C43,2458825,0.049779875
+Incidence,Melanoma of the skin,2006,Males,Victoria,1223,49.2,C43,2495951,0.048999359
+Incidence,Melanoma of the skin,2007,Males,Victoria,1190,46.4,C43,2540885,0.046834076
+Incidence,Melanoma of the skin,2008,Males,Victoria,1246,47.5,C43,2592080,0.048069504
+Incidence,Melanoma of the skin,2009,Males,Victoria,1335,49.9,C43,2650782,0.050362497
+Incidence,Melanoma of the skin,2010,Males,Victoria,1302,47,C43,2698331,0.048252049
+Incidence,Melanoma of the skin,2011,Males,Victoria,1171,41,C43,2732846,0.042849103
+Incidence,Melanoma of the skin,2012,Males,Victoria,1291,44.2,C43,2783292,0.046383922
+Incidence,Melanoma of the skin,2013,Males,Victoria,1325,44.1,C43,2842811,0.046608797
+Incidence,Melanoma of the skin,2014,Males,Victoria,1399,45.4,C43,2902774,0.048195278
+Incidence,Melanoma of the skin,2015,Males,Victoria,1537,48.4,C43,2964190,0.051852277
+Incidence,Melanoma of the skin,2016,Males,Victoria,1565,48,C43,3034156,0.051579418
+Incidence,Melanoma of the skin,1982,Males,Western Australia,165,31.3,C43,672273,0.024543601
+Incidence,Melanoma of the skin,1983,Males,Western Australia,165,31,C43,688002,0.023982488
+Incidence,Melanoma of the skin,1984,Males,Western Australia,173,31.5,C43,699900,0.024717817
+Incidence,Melanoma of the skin,1985,Males,Western Australia,212,38.7,C43,711701,0.02978779
+Incidence,Melanoma of the skin,1986,Males,Western Australia,226,38.8,C43,730127,0.030953519
+Incidence,Melanoma of the skin,1987,Males,Western Australia,267,44.3,C43,750002,0.035599905
+Incidence,Melanoma of the skin,1988,Males,Western Australia,297,48.3,C43,769499,0.038596541
+Incidence,Melanoma of the skin,1989,Males,Western Australia,263,41.9,C43,791196,0.033240815
+Incidence,Melanoma of the skin,1990,Males,Western Australia,297,45.9,C43,808851,0.036718753
+Incidence,Melanoma of the skin,1991,Males,Western Australia,336,51.1,C43,820779,0.04093672
+Incidence,Melanoma of the skin,1992,Males,Western Australia,357,53.1,C43,831966,0.042910407
+Incidence,Melanoma of the skin,1993,Males,Western Australia,383,55.1,C43,841892,0.045492771
+Incidence,Melanoma of the skin,1994,Males,Western Australia,425,59.4,C43,854228,0.049752525
+Incidence,Melanoma of the skin,1995,Males,Western Australia,479,64.6,C43,869044,0.055118038
+Incidence,Melanoma of the skin,1996,Males,Western Australia,430,56.9,C43,885124,0.048580764
+Incidence,Melanoma of the skin,1997,Males,Western Australia,398,51.7,C43,901173,0.044164661
+Incidence,Melanoma of the skin,1998,Males,Western Australia,426,54.2,C43,914249,0.046595621
+Incidence,Melanoma of the skin,1999,Males,Western Australia,550,68.1,C43,927395,0.059305905
+Incidence,Melanoma of the skin,2000,Males,Western Australia,531,63.4,C43,939331,0.056529594
+Incidence,Melanoma of the skin,2001,Males,Western Australia,511,59.6,C43,951846,0.053685155
+Incidence,Melanoma of the skin,2002,Males,Western Australia,636,72,C43,964179,0.065962855
+Incidence,Melanoma of the skin,2003,Males,Western Australia,674,73.8,C43,976431,0.069026895
+Incidence,Melanoma of the skin,2004,Males,Western Australia,581,63,C43,992022,0.05856725
+Incidence,Melanoma of the skin,2005,Males,Western Australia,598,62.7,C43,1008904,0.05927224
+Incidence,Melanoma of the skin,2006,Males,Western Australia,636,64.2,C43,1030021,0.061746314
+Incidence,Melanoma of the skin,2007,Males,Western Australia,576,56.5,C43,1055527,0.054569897
+Incidence,Melanoma of the skin,2008,Males,Western Australia,662,63.8,C43,1086540,0.060927347
+Incidence,Melanoma of the skin,2009,Males,Western Australia,640,59.4,C43,1123379,0.056970978
+Incidence,Melanoma of the skin,2010,Males,Western Australia,650,59.1,C43,1147794,0.056630371
+Incidence,Melanoma of the skin,2011,Males,Western Australia,669,58.8,C43,1177289,0.056825469
+Incidence,Melanoma of the skin,2012,Males,Western Australia,696,58.9,C43,1214355,0.057314377
+Incidence,Melanoma of the skin,2013,Males,Western Australia,785,65.2,C43,1248763,0.062862208
+Incidence,Melanoma of the skin,2014,Males,Western Australia,774,61.9,C43,1264796,0.061195639
+Incidence,Melanoma of the skin,2015,Males,Western Australia,898,71,C43,1275265,0.070416737
+Incidence,Melanoma of the skin,2016,Males,Western Australia,920,70.4,C43,1281787,0.071774796
+Incidence,Melanoma of the skin,1982,Females,Western Australia,173,30.6,C43,657427,0.026314709
+Incidence,Melanoma of the skin,1983,Females,Western Australia,165,27.4,C43,673872,0.024485362
+Incidence,Melanoma of the skin,1984,Females,Western Australia,173,28.6,C43,685978,0.025219468
+Incidence,Melanoma of the skin,1985,Females,Western Australia,208,34.2,C43,698676,0.029770595
+Incidence,Melanoma of the skin,1986,Females,Western Australia,184,28.4,C43,717127,0.025657938
+Incidence,Melanoma of the skin,1987,Females,Western Australia,214,32.1,C43,736903,0.029040457
+Incidence,Melanoma of the skin,1988,Females,Western Australia,250,37.7,C43,756077,0.033065415
+Incidence,Melanoma of the skin,1989,Females,Western Australia,221,31.1,C43,778516,0.028387342
+Incidence,Melanoma of the skin,1990,Females,Western Australia,216,31,C43,797108,0.027097959
+Incidence,Melanoma of the skin,1991,Females,Western Australia,268,36.9,C43,810578,0.033062827
+Incidence,Melanoma of the skin,1992,Females,Western Australia,254,33.4,C43,822278,0.030889796
+Incidence,Melanoma of the skin,1993,Females,Western Australia,332,42.8,C43,832358,0.039886683
+Incidence,Melanoma of the skin,1994,Females,Western Australia,351,44.5,C43,844306,0.041572605
+Incidence,Melanoma of the skin,1995,Females,Western Australia,358,43.7,C43,858863,0.041683016
+Incidence,Melanoma of the skin,1996,Females,Western Australia,310,37.7,C43,875321,0.035415579
+Incidence,Melanoma of the skin,1997,Females,Western Australia,294,34.3,C43,892172,0.032953287
+Incidence,Melanoma of the skin,1998,Females,Western Australia,326,37.5,C43,906563,0.035959994
+Incidence,Melanoma of the skin,1999,Females,Western Australia,395,43.7,C43,920908,0.04289245
+Incidence,Melanoma of the skin,2000,Females,Western Australia,373,40.5,C43,935040,0.039891342
+Incidence,Melanoma of the skin,2001,Females,Western Australia,396,42,C43,949449,0.041708401
+Incidence,Melanoma of the skin,2002,Females,Western Australia,444,46.2,C43,960756,0.046213607
+Incidence,Melanoma of the skin,2003,Females,Western Australia,416,42.2,C43,970400,0.04286892
+Incidence,Melanoma of the skin,2004,Females,Western Australia,414,41.1,C43,982123,0.04215358
+Incidence,Melanoma of the skin,2005,Females,Western Australia,407,39.5,C43,995740,0.040874124
+Incidence,Melanoma of the skin,2006,Females,Western Australia,458,43.6,C43,1012429,0.04523774
+Incidence,Melanoma of the skin,2007,Females,Western Australia,411,38,C43,1038106,0.039591333
+Incidence,Melanoma of the skin,2008,Females,Western Australia,425,37.9,C43,1069012,0.039756336
+Incidence,Melanoma of the skin,2009,Females,Western Australia,400,34.5,C43,1104938,0.036201126
+Incidence,Melanoma of the skin,2010,Females,Western Australia,389,32.6,C43,1130795,0.034400577
+Incidence,Melanoma of the skin,2011,Females,Western Australia,449,36.2,C43,1160322,0.038696155
+Incidence,Melanoma of the skin,2012,Females,Western Australia,454,35.8,C43,1193753,0.038031318
+Incidence,Melanoma of the skin,2013,Females,Western Australia,532,41.1,C43,1226479,0.043376201
+Incidence,Melanoma of the skin,2014,Females,Western Australia,530,40.1,C43,1247760,0.042476117
+Incidence,Melanoma of the skin,2015,Females,Western Australia,670,49.3,C43,1261339,0.053118155
+Incidence,Melanoma of the skin,2016,Females,Western Australia,627,45.7,C43,1272719,0.049264606
