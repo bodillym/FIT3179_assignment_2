@@ -3,7 +3,7 @@
   "data": {
       "url": "https://bodillym.github.io/FIT3179_assignment_2/Melanoma_max_UV.csv"
   },
-  "title": "Daily Max Temperatures (C) in Seattle, WA",
+  "title": "Monthly UV Index Australia",
   "config": {
       "view": {
           "strokeWidth": 0,
@@ -31,6 +31,9 @@
           "type": "quantitative",
           "legend": {
               "title": null
+          },
+          "scale": {
+            "scheme": "yelloworangered"
           }
       }
   }
