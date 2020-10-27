@@ -4,6 +4,7 @@
   "data": {
     "url": "https://bodillym.github.io/FIT3179_assignment_2/Melanoma_total_cancer.csv"
   },
+  "width": "container", 
   "params" : [{"name": "Gender",
       "bind": {
         "input": "select",
