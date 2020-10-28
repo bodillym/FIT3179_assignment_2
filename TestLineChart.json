@@ -2,6 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "description": "Practice Area Chart",
   "data": {"url": "https://bodillym.github.io/FIT3179_assignment_2/Melanoma_total_cancer.csv"},
+  "width": "container",
   "title": "Total Number of Diagnoses Since 1982",
   "mark": {
     "type": "area",
