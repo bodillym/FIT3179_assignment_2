@@ -6,7 +6,7 @@
   "mark": {
     "type": "area",
     "line": {
-      "color": "darkred"
+      "color": "darkorange"
     },
     "color": {
       "x1": 1,
@@ -21,7 +21,7 @@
         },
         {
           "offset": 1,
-          "color": "darkred"
+          "color": "darkorange"
         }
       ]
     }
