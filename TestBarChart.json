@@ -40,7 +40,7 @@
           "Breast cancer",
           "Lung cancer"
         ],
-        "range": ["#F1C40F", "#D3D3D3", "#D3D3D3", "#D3D3D3", "#D3D3D3"]
+        "range": ["DarkOrange", "#D3D3D3", "#D3D3D3", "#D3D3D3", "#D3D3D3"]
       },
       "legend": false
     }
