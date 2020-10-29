@@ -29,7 +29,7 @@
         "legend": null
       },
        "tooltip": [{"field": "Sex", "title": "Sex"}, {"field": "Year", "type": "quantitative"},
-      {"aggregate": "sum", "field": "Count", "title": "Number of Mortality"}
+      {"aggregate": "sum", "field": "Count", "title": "Number of Deaths"}
     ]
     }
   }, {
@@ -71,7 +71,7 @@
         "legend": null
       },
       "tooltip": [{"field": "Sex", "title": "Sex"}, {"field": "Year", "type": "quantitative"},
-      {"aggregate": "sum", "field": "Count", "title": "Number of Mortality"}
+      {"aggregate": "sum", "field": "Count", "title": "Number of Deaths"}
     ]
     }
   }],
