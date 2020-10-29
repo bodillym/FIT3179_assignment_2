@@ -14,7 +14,7 @@
       "y": {
         "field": "Year", "axis": null, "scale": {
         "domain": [
-          "1986", "1992", "1998", "2004", "2010", "2016"
+          "2016", "2010", "2004", "1998", "1992", "1986"
         ]}
       },
       "x": {
@@ -25,9 +25,12 @@
       },
       "color": {
         "field": "Sex",
-        "scale": {"range": ["#675193", "#ca8861"]},
+        "scale": {"range": ["DarkOrange", "OrangeRed"]},
         "legend": null
-      }
+      },
+       "tooltip": [{"field": "Sex", "title": "Sex"}, {"field": "Year", "type": "quantitative"},
+      {"aggregate": "sum", "field": "Count", "title": "Number of Mortality"}
+    ]
     }
   }, {
     "width": 20,
@@ -39,7 +42,7 @@
     "encoding": {
       "y": {"field": "Year", "type": "ordinal", "axis": null,  "scale": {
         "domain": [
-          "1986", "1992", "1998", "2004", "2010", "2016"
+          "2016", "2010", "2004", "1998", "1992", "1986"
         ]}},
       "text": {"field": "Year", "type": "quantitative"}
     }
@@ -55,7 +58,7 @@
         "axis": null, 
         "scale": {
         "domain": [
-          "1986", "1992", "1998", "2004", "2010", "2016"
+          "2016", "2010", "2004", "1998", "1992", "1986"
         ]}
       },
       "x": {
@@ -67,7 +70,7 @@
         "field": "Sex",
         "legend": null
       },
-      "tooltip": [{"field": "Sex", "title": "Male"}, {"field": "Year", "type": "quantitative"},
+      "tooltip": [{"field": "Sex", "title": "Sex"}, {"field": "Year", "type": "quantitative"},
       {"aggregate": "sum", "field": "Count", "title": "Number of Mortality"}
     ]
     }
