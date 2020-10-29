@@ -25,7 +25,7 @@
       },
       "color": {
         "field": "Sex",
-        "scale": {"range": ["DarkOrange", "OrangeRed"]},
+        "scale": {"range": ["Coral", "Orange"]},
         "legend": null
       },
        "tooltip": [{"field": "Sex", "title": "Sex"}, {"field": "Year", "type": "quantitative"},
