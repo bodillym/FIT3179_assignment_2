@@ -1,0 +1,98 @@
+﻿Data type,Cancer group/site,Year,Sex,State or Territory,Count,"Age-standardised rate
+(per 100,000)",ICD10 codes
+Mortality,Melanoma of the skin,1986,Males,New South Wales,163,7.9,C43
+Mortality,Melanoma of the skin,1986,Males,Victoria,83,4.7,C43
+Mortality,Melanoma of the skin,1986,Males,Queensland,85,8.7,C43
+Mortality,Melanoma of the skin,1986,Males,Western Australia,43,8.3,C43
+Mortality,Melanoma of the skin,1986,Males,South Australia,29,5,C43
+Mortality,Melanoma of the skin,1986,Males,Tasmania,11,5.5,C43
+Mortality,Melanoma of the skin,1986,Males,Australian Capital Territory,4,n.p.,C43
+Mortality,Melanoma of the skin,1986,Males,Northern Territory,0,0,C43
+Mortality,Melanoma of the skin,1986,Females,New South Wales,102,3.9,C43
+Mortality,Melanoma of the skin,1986,Females,Victoria,64,3.2,C43
+Mortality,Melanoma of the skin,1986,Females,Queensland,47,4.2,C43
+Mortality,Melanoma of the skin,1986,Females,Western Australia,15,2.5,C43
+Mortality,Melanoma of the skin,1986,Females,South Australia,27,3.9,C43
+Mortality,Melanoma of the skin,1986,Females,Tasmania,7,3.7,C43
+Mortality,Melanoma of the skin,1986,Females,Australian Capital Territory,7,9.4,C43
+Mortality,Melanoma of the skin,1986,Females,Northern Territory,1,n.p.,C43
+Mortality,Melanoma of the skin,1992,Males,New South Wales,221,9,C43
+Mortality,Melanoma of the skin,1992,Males,Victoria,109,6.1,C43
+Mortality,Melanoma of the skin,1992,Males,Queensland,110,9.2,C43
+Mortality,Melanoma of the skin,1992,Males,Western Australia,36,5.6,C43
+Mortality,Melanoma of the skin,1992,Males,South Australia,28,5.1,C43
+Mortality,Melanoma of the skin,1992,Males,Tasmania,7,4.2,C43
+Mortality,Melanoma of the skin,1992,Males,Australian Capital Territory,7,4.8,C43
+Mortality,Melanoma of the skin,1992,Males,Northern Territory,5,16.1,C43
+Mortality,Melanoma of the skin,1992,Females,New South Wales,145,4.9,C43
+Mortality,Melanoma of the skin,1992,Females,Victoria,80,3.7,C43
+Mortality,Melanoma of the skin,1992,Females,Queensland,49,3.5,C43
+Mortality,Melanoma of the skin,1992,Females,Western Australia,38,5,C43
+Mortality,Melanoma of the skin,1992,Females,South Australia,24,3.1,C43
+Mortality,Melanoma of the skin,1992,Females,Tasmania,5,2,C43
+Mortality,Melanoma of the skin,1992,Females,Australian Capital Territory,3,n.p.,C43
+Mortality,Melanoma of the skin,1992,Females,Northern Territory,0,0,C43
+Mortality,Melanoma of the skin,1998,Males,New South Wales,236,8.4,C43
+Mortality,Melanoma of the skin,1998,Males,Victoria,132,6.5,C43
+Mortality,Melanoma of the skin,1998,Males,Queensland,141,10,C43
+Mortality,Melanoma of the skin,1998,Males,Western Australia,56,7.9,C43
+Mortality,Melanoma of the skin,1998,Males,South Australia,42,5.7,C43
+Mortality,Melanoma of the skin,1998,Males,Tasmania,10,4.9,C43
+Mortality,Melanoma of the skin,1998,Males,Australian Capital Territory,4,n.p.,C43
+Mortality,Melanoma of the skin,1998,Males,Northern Territory,2,n.p.,C43
+Mortality,Melanoma of the skin,1998,Females,New South Wales,116,3.3,C43
+Mortality,Melanoma of the skin,1998,Females,Victoria,79,3.1,C43
+Mortality,Melanoma of the skin,1998,Females,Queensland,82,4.9,C43
+Mortality,Melanoma of the skin,1998,Females,Western Australia,32,3.7,C43
+Mortality,Melanoma of the skin,1998,Females,South Australia,25,3.1,C43
+Mortality,Melanoma of the skin,1998,Females,Tasmania,4,n.p.,C43
+Mortality,Melanoma of the skin,1998,Females,Australian Capital Territory,3,n.p.,C43
+Mortality,Melanoma of the skin,1998,Females,Northern Territory,2,n.p.,C43
+Mortality,Melanoma of the skin,2004,Males,New South Wales,286,9,C43
+Mortality,Melanoma of the skin,2004,Males,Victoria,174,7.5,C43
+Mortality,Melanoma of the skin,2004,Males,Queensland,195,11.2,C43
+Mortality,Melanoma of the skin,2004,Males,Western Australia,81,9.5,C43
+Mortality,Melanoma of the skin,2004,Males,South Australia,43,5.5,C43
+Mortality,Melanoma of the skin,2004,Males,Tasmania,20,8.1,C43
+Mortality,Melanoma of the skin,2004,Males,Australian Capital Territory,14,10.3,C43
+Mortality,Melanoma of the skin,2004,Males,Northern Territory,2,n.p.,C43
+Mortality,Melanoma of the skin,2004,Females,New South Wales,124,3.2,C43
+Mortality,Melanoma of the skin,2004,Females,Victoria,89,3.1,C43
+Mortality,Melanoma of the skin,2004,Females,Queensland,84,4.1,C43
+Mortality,Melanoma of the skin,2004,Females,Western Australia,43,4.2,C43
+Mortality,Melanoma of the skin,2004,Females,South Australia,30,3,C43
+Mortality,Melanoma of the skin,2004,Females,Tasmania,9,2.6,C43
+Mortality,Melanoma of the skin,2004,Females,Australian Capital Territory,5,3.4,C43
+Mortality,Melanoma of the skin,2004,Females,Northern Territory,1,n.p.,C43
+Mortality,Melanoma of the skin,2010,Males,New South Wales,361,9.9,C43
+Mortality,Melanoma of the skin,2010,Males,Victoria,205,7.3,C43
+Mortality,Melanoma of the skin,2010,Males,Queensland,231,11.2,C43
+Mortality,Melanoma of the skin,2010,Males,Western Australia,83,7.7,C43
+Mortality,Melanoma of the skin,2010,Males,South Australia,68,7.4,C43
+Mortality,Melanoma of the skin,2010,Males,Tasmania,20,6.8,C43
+Mortality,Melanoma of the skin,2010,Males,Australian Capital Territory,9,7.3,C43
+Mortality,Melanoma of the skin,2010,Males,Northern Territory,7,8.1,C43
+Mortality,Melanoma of the skin,2010,Females,New South Wales,156,3.6,C43
+Mortality,Melanoma of the skin,2010,Females,Victoria,90,2.7,C43
+Mortality,Melanoma of the skin,2010,Females,Queensland,126,5.2,C43
+Mortality,Melanoma of the skin,2010,Females,Western Australia,37,3,C43
+Mortality,Melanoma of the skin,2010,Females,South Australia,19,1.7,C43
+Mortality,Melanoma of the skin,2010,Females,Tasmania,11,3.5,C43
+Mortality,Melanoma of the skin,2010,Females,Australian Capital Territory,9,5.5,C43
+Mortality,Melanoma of the skin,2010,Females,Northern Territory,0,0,C43
+Mortality,Melanoma of the skin,2016,Males,New South Wales,295,6.8,C43
+Mortality,Melanoma of the skin,2016,Males,Victoria,177,5.4,C43
+Mortality,Melanoma of the skin,2016,Males,Queensland,204,8.2,C43
+Mortality,Melanoma of the skin,2016,Males,Western Australia,89,6.9,C43
+Mortality,Melanoma of the skin,2016,Males,South Australia,52,4.9,C43
+Mortality,Melanoma of the skin,2016,Males,Tasmania,24,7.2,C43
+Mortality,Melanoma of the skin,2016,Males,Australian Capital Territory,10,5.9,C43
+Mortality,Melanoma of the skin,2016,Males,Northern Territory,1,n.p.,C43
+Mortality,Melanoma of the skin,2016,Females,New South Wales,143,2.7,C43
+Mortality,Melanoma of the skin,2016,Females,Victoria,84,2.3,C43
+Mortality,Melanoma of the skin,2016,Females,Queensland,98,3.3,C43
+Mortality,Melanoma of the skin,2016,Females,Western Australia,37,2.5,C43
+Mortality,Melanoma of the skin,2016,Females,South Australia,43,3.4,C43
+Mortality,Melanoma of the skin,2016,Females,Tasmania,11,3,C43
+Mortality,Melanoma of the skin,2016,Females,Australian Capital Territory,6,3.1,C43
+Mortality,Melanoma of the skin,2016,Females,Northern Territory,2,n.p.,C43
