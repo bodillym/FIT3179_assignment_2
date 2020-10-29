@@ -38,9 +38,10 @@
           "Prostate cancer",
           "Colorectal cancer",
           "Breast cancer",
-          "Lung cancer"
+          "Lung cancer",
+          "Uterine cancer"
         ],
-        "range": ["DarkOrange", "#D3D3D3", "#D3D3D3", "#D3D3D3", "#D3D3D3"]
+        "range": ["DarkOrange", "#D3D3D3", "#D3D3D3", "#D3D3D3", "#D3D3D3","#D3D3D3"]
       },
       "legend": false
     }
