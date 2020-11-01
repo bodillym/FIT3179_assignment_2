@@ -2,12 +2,12 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "description": "Diverging Bar Chart",
   "data": {"url": "https://bodillym.github.io/FIT3179_assignment_2/Mortality_by_states.csv"},
-  "width": 500,
   "spacing": 0,
   "hconcat": [{
     "transform": [{
       "filter": {"field": "Sex", "equal": "Females"}
     }],
+    "width": 250,
     "title": "Female",
     "mark": "bar",
     "encoding": {
@@ -51,6 +51,7 @@
       "filter": {"field": "Sex", "equal": "Males"}
     }],
     "title": "Male",
+    "width": 250,
     "mark": "bar",
     "encoding": {
       "y": {
