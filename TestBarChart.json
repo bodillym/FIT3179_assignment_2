@@ -25,10 +25,10 @@
   ],
   "transform": [{"filter": "Gender == null || datum.Sex == Gender"}
   ],
-  "mark": {"type": "bar", "tooltip": true},
+  "mark": {"type": "bar"},
   "encoding": {
     "y": {"field": "Cancer group/site", "type": "nominal", "sort": "-x"},
-    "x": {"aggregate": "sum", "field": "Count", "type": "quantitative"},
+    "x": {"aggregate": "sum", "field": "Count", "type": "quantitative", "title": "Number of diagnoses"},
     "color": {
       "field": "Cancer group/site",
       "type": "nominal",
@@ -44,7 +44,8 @@
         "range": ["DarkOrange", "#D3D3D3", "#D3D3D3", "#D3D3D3", "#D3D3D3","#D3D3D3"]
       },
       "legend": false
-    }
+    },
+    "tooltip": [{"field":"Cancer group/site"}, {"aggregate": "sum", "field": "Count", "title": "Number of Diagnoses"}]
   },
   "config": {}
 }
