@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "width": 1000,
-  "height": 400,
+  "width": 900,
+  "height": 250,
   "data": {
     "url": "https://bodillym.github.io/FIT3179_assignment_2/Normalised_by_states.csv"
   },
