@@ -156,6 +156,17 @@
         </div>
       
     </div>
+	 
+    <div class="pure-g">
+        <div class="pure-u-1-2">
+          <div id="vis8"  class="vis-container"></div>
+        </div>
+        <div class="pure-u-1-2">
+          <div id="vis9"  class="vis-container"></div>
+          </div>
+        </div>
+      
+    </div>
 
   </div> <!-- end page -->
    
@@ -167,7 +178,9 @@
   var specVis5 = "https://bodillym.github.io/FIT3179_assignment_2/TestHeatMap.json";
   var specVis6 = "https://bodillym.github.io/FIT3179_assignment_2/ConnectedDotPlot.json";
   var specVis7 = "https://bodillym.github.io/FIT3179_assignment_2/TestDivergingChart.json";
-
+  var specVis8 = "https://bodillym.github.io/FIT3179_assignment_2/OneYearBarChart.json";
+  var specVis9 = "https://bodillym.github.io/FIT3179_assignment_2/ThreeYearBarChart.json"; 
+	
   vegaEmbed('#vis1', specVis1, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
@@ -193,6 +206,14 @@
   }).catch(console.error); 
 	
   vegaEmbed('#vis7', specVis7, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error); 
+
+  vegaEmbed('#vis8', specVis8, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error); 
+	
+  vegaEmbed('#vis9', specVis9, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error); 
   
