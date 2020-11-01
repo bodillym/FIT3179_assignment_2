@@ -1,0 +1,28 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": { "url": "https://bodillym.github.io/FIT3179_assignment_2/Survival.csv"},
+  "width": {"step": 12},
+  "mark": "bar",
+  "encoding": {
+    "column": {
+      "field": "Age", "type": "ordinal", "spacing": 10
+    },
+    "y": {"field": "3 Years Adter Diagnosis", "type": "quantitative",
+      "title": "Survival Rate (%)",
+      "axis": {"grid": false}
+    },
+    "x": {
+      "field": "Stage",
+      "axis": false
+    },
+    "color": {
+      "field": "Stage",
+      "scale": {"range": ["orangered", "coral","orange"]}
+    },
+    "tooltip": [{"field": "3 Years Adter Diagnosis", "title": "Survival Rate (%)"}, {"field": "Stage", "title": "Cancer Stage"}]
+  },
+  "config": {
+    "view": {"stroke": "transparent"},
+    "axis": {"domainWidth": 1}
+  }
+}
